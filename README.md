@@ -493,7 +493,7 @@ The modular design enables several enhancement opportunities:
 
 ```bash
 # Fork and clone the repository
-git clone https://github.com/YOUR-USERNAME/rag-assistant-aaidc.git
+git clone https://github.com/E-Z1937/rag-assistant-aaidc.git
 cd rag-assistant-aaidc
 
 # Create development environment
